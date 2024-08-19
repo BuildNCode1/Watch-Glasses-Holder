@@ -1,2 +1,11 @@
 # Watch-Glasses-Holder
-This is a project I've needed for a long time. I wear glasses, and usually a watch. The thing is, when I go to sleep, I put them on a small cubicle next to my bed, where they are prone to getting knocked onto the floor. This is a design that integrates an in-model hinge to create a closing case for my glasses, as well as a hook to hang my watch from. 
+This is a project I've needed for a long time. I wear glasses, and usually a watch. The thing is, when I go to sleep, I put them on a small cubicle next to my bed, where they are prone to getting knocked onto the floor. This design uses several magnets to securely hold the glasses case closed, as well as a hook from which to hang your watch.
+For this project, you will require:
+  - 48 neodymium magnets, 6 mm by 1 mm
+  - 5 wood screws, 20 mm by 7 mm
+
+Here is a picture of the real thing:
+![image](https://github.com/user-attachments/assets/cf73a82a-9e67-4340-9bcf-0779c17be939)
+
+You can also find it here on thingiverse:
+https://www.thingiverse.com/thing:6736489
